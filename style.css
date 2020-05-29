@@ -97,3 +97,8 @@ h3 {
     opacity: .4;
   }
 }
+
+audio {
+  display: block;
+  margin: 0 auto;
+}
